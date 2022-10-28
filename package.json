@@ -1,0 +1,16 @@
+{
+  "name": "makrukthai-demo",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "หมากรุกไทย เอไอ",
+    "หมากรุกไทย เล่นกับคอม",
+    "ประลองหมากรุก"
+  ],
+  "repository": "https://github.com/SiamHosting/demo3",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
